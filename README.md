@@ -86,4 +86,4 @@ The game focuses on gun play and movement. Players can pickup different weapons,
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [linkedin-url]: https://www.linkedin.com/in/siddharthsinghai97/
-[portfolio-url]: https://sidsinghai97.wixsite.com/portfolio
+[portfolio-url]: https://sidoku.github.io
